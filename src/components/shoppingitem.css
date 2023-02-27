@@ -1,0 +1,29 @@
+.shopping-item{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    color: black;
+    align-items: center;
+    padding: 5px;
+    margin: 10px 0 0 0;
+}
+.name-container{
+    width: 25%;
+}
+.shopping-item h2{
+
+    font-size: 35px;
+    margin: 0 10px;
+}
+
+.cost-container{
+    font-size: 20px;
+    margin: 0 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.ratings-container{
+    font-size: 20px;
+    margin: 10px;
+}
